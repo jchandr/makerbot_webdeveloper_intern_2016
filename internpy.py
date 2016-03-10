@@ -3,6 +3,7 @@ input_string = "7o*W1CNwGJp4]|=hWxCzavcmxp3$qx[[k/>4/qDKP]k4RBsg%1w1}3nN~`JCEYpr
 output_string = ""
 no_of_caps = 0
 
+
 for x in input_string:
 	if(x.isalpha()):
 		output_string += x
